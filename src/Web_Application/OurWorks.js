@@ -34,7 +34,7 @@ const OurWorks = () => {
         </div>
 
         <div class="col-xxl-4 col-lg-4 col-md-6 col-sm-12">
-            <figure><img src="./img/ourwork/4.jpg" class="img-fluid"/></figure>
+            <figure><img src="https://wallpapercave.com/dwp1x/wp2155885.jpg" class="img-fluid"/></figure>
         </div>
         <div class="col-xxl-4 col-lg-4 col-md-6 col-sm-12">
             <figure><img src="./img/ourwork/5.jpg" class="img-fluid"/></figure>
