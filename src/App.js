@@ -49,6 +49,7 @@ const App = () =>{
         
            {/* <link rel="icon" href="hello.jpg"></link> */}
         </Helmet>
+      <h1>I am exiting</h1>
         
         </>
       )
