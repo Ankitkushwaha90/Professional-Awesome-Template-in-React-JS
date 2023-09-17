@@ -46,7 +46,7 @@ const Team = () => {
         </div>
         <div class="col-xxl-3 col-lg-3 col-md-6 col-sm-12">
             <div class="card my-3 mx-auto px-auto " >
-                <img src="./https://wallpapercave.com/dwp1x/wp2155885.jpg" class="card-img-top" alt="..."/>
+                <img src="https://wallpapercave.com/dwp1x/wp2155885.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     
                   <h5 class="card-title">Web Design</h5>
